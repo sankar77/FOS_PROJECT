@@ -2,6 +2,7 @@
 /.pnp
 .pnp.js
 /frontend/node_modules
+.eslintcache
 
 # testing
 /coverage
